@@ -10,3 +10,20 @@ h1, h2 {
 .idk .food.one{font-size: 40px;
 
 }
+
+li.two, .three {
+    font-size: 40px;
+}
+
+ul {
+    font-weight: bold;
+    background-color: #ebab34;
+    color: hsl(198,100%,50%)
+}
+
+
+img{
+    height: auto;
+    width:400px
+
+}
